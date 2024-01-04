@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android38</string>
+    <string-array name="tag_types">
+        <item>Person</item>
+        <item>Location</item>
+    </string-array>
+</resources>
